@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=C:\Users\rambo\Documents\rad\UBC BSC\Personal Projects\Django\myenv
+set VIRTUAL_ENV=C:\Users\rambo\Documents\rad\UBC BSC\Personal Projects\GradeSaver-backend\myenv
 
 if not defined PROMPT set PROMPT=$P$G
 
